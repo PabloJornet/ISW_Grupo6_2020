@@ -262,10 +262,10 @@ Utilizaremos la herramienta de versionado Github. La estructura de nuestra líne
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=114 HEIGHT=6 BGCOLOR="#dbe5f1" STYLE="border: 1px solid #95b3d7; padding: 0in 0.08in">
-			<P><FONT COLOR="#000000"><FONT SIZE=2><B>Documento de apuntes</B></FONT></FONT></P>
+			<P><FONT COLOR="#000000"><FONT SIZE=2>Documento de apuntes</FONT></FONT></P>
 		</TD>
 		<TD WIDTH=349 BGCOLOR="#dbe5f1" STYLE="border: 1px solid #95b3d7; padding: 0in 0.08in">
-			<P><FONT COLOR="#000000"><FONT SIZE=2><B>ISW_&lt;NOMBRE_DOCUMENTO&gt;.pdf</B></FONT></FONT></P>
+			<P><FONT COLOR="#000000"><FONT SIZE=2>ISW_&lt;NOMBRE_DOCUMENTO&gt;.pdf</FONT></FONT></P>
 		</TD>
 		<TD WIDTH=411 BGCOLOR="#dbe5f1" STYLE="border: 1px solid #95b3d7; padding: 0in 0.08in">
 			<P><FONT COLOR="#000000"><FONT SIZE=2>http://&lt;NumIPServidor&gt;/ISW/teórico/apuntes</FONT></FONT></P>
