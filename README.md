@@ -17,8 +17,8 @@ Docentes:
 
 Criterio para la línea base: 
 
-La estructura de nuestra línea base si bien es simple, consideramos que es muy práctica e intuitiva, motivos por los cuales creemos que simplificará su uso durante todo el cursado de la materia. Para ello, separamos las 4 diferencias principales de la cursada como lo son el catedra, teórico, tp_evaluables, y trunk (donde almacenaremos el proyecto y el producto), dentro de cada una pudimos clasificar en subclases que permitan diferenciar intuitivamente lo que estamos buscando.
-La línea base se va a crear la semana posterior a las instancias de evaluación de la materia Ingeniería de Software.Utilizaremos la herramienta de versionado Github
 
+La línea base se va a crear la semana posterior a la entrega de todos los trabajos practicos que son evaluados por la cátedra (el trabajo 14 no se incluye).Utilizaremos la herramienta de versionado Github
+La estructura de nuestra línea base si bien es simple, consideramos que es muy práctica e intuitiva, motivos por los cuales creemos que simplificará su uso durante todo el cursado de la materia. Para ello, separamos las 4 diferencias principales de la cursada como lo son el catedra, teórico, tp_evaluables, y trunk (donde almacenaremos el proyecto y el producto), dentro de cada una pudimos clasificar en subclases que permitan diferenciar intuitivamente lo que estamos buscando.
 
 
