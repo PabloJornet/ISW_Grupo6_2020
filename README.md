@@ -1,15 +1,15 @@
 # CÁTEDRA de INGENIERÍA EN SOFTWARE
-## Grupo Nº 6
+### Grupo Nº 6
 
-## DENOMINACIÓN DEL GRUPO: ISW_Grupo6_2020
+### DENOMINACIÓN DEL GRUPO: ISW_Grupo6_2020
 
-## Integrantes:
+#### Integrantes:
 
 - [Cesana, Fernando. Legajo: 57790 ](https://github.com/Fernando939 " Cesana, Fernando. Legajo: 57790")
 - [Jornet, Pablo. Legajo: 62901 ](https://github.com/PabloJornet " Jornet, Pablo. Legajo: 62901")
 
 
-## Docentes:
+#### Docentes:
 
 - [Covaro, Laura Inés ]
 - [Crespo, María Mickaela ]
@@ -43,7 +43,7 @@
 	* producto/implementación
 	* proyecto
 
-# Criterio para la línea base:
+### Criterio para la línea base:
 
 La línea base se va a crear la semana 
 posterior a la entrega de todos los trabajos 
