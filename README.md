@@ -1,24 +1,28 @@
-# ISW_Grupo6_2020
+## Cátedra de INGENIERÍA EN SOFTWARE
+## Grupo Nº 6
 
-Integrantes:
+## DENOMINACIÓN: ISW_Grupo6_2020
 
-●	Cesana, Fernando. Legajo:57790
+## Integrantes:
 
-●	Jornet, Pablo. Legajo:  62901
-
-Docentes:
-
-●	Covaro, Laura Inés 
-
-●	Crespo, María Mickaela 
-
-●	Massano, María Cecilia 
+- [Cesana, Fernando. Legajo: 57790 ](https://github.com/Fernando939 " Cesana, Fernando. Legajo: 57790")
+- [Jornet, Pablo. Legajo: 62901 ](https://github.com/PabloJornet " Jornet, Pablo. Legajo: 62901")
 
 
-Criterio para la línea base: 
+## Docentes:
+
+- [Covaro, Laura Inés ]
+- [Crespo, María Mickaela ]
+- [Massano, María Cecilia ]
 
 
-La línea base se va a crear la semana posterior a la entrega de todos los trabajos practicos que son evaluados por la cátedra (el trabajo 14 no se incluye).Utilizaremos la herramienta de versionado Github
-La estructura de nuestra línea base si bien es simple, consideramos que es muy práctica e intuitiva, motivos por los cuales creemos que simplificará su uso durante todo el cursado de la materia. Para ello, separamos las 4 diferencias principales de la cursada como lo son el catedra, teórico, tp_evaluables, y trunk (donde almacenaremos el proyecto y el producto), dentro de cada una pudimos clasificar en subclases que permitan diferenciar intuitivamente lo que estamos buscando.
+# Criterio para la línea base:
 
-
+La línea base se va a crear la semana 
+posterior a la entrega de todos los trabajos 
+practicos que son evaluados por la cátedra (el trabajo 14 no se incluye)
+Utilizaremos la herramienta de versionado Github. La estructura de nuestra línea base si bien es simple, consideramos que es muy práctica e
+ intuitiva, motivos por los cuales creemos que simplificará su uso
+ durante todo el cursado de la materia. Para ello, separamos las 4 diferencias principales de la cursada como lo son el catedra, teórico, tp_evaluables, 
+ y trunk (donde almacenaremos el proyecto y el producto), dentro de cada una pudimos
+ clasificar en subclases que permitan diferenciar intuitivamente lo que estamos buscando.
