@@ -1,4 +1,4 @@
-## CÁTEDRA de INGENIERÍA EN SOFTWARE
+# CÁTEDRA de INGENIERÍA EN SOFTWARE
 ## Grupo Nº 6
 
 ## DENOMINACIÓN DEL GRUPO: ISW_Grupo6_2020
@@ -15,6 +15,33 @@
 - [Crespo, María Mickaela ]
 - [Massano, María Cecilia ]
 
+#### Estructura del Repositorio
+                
+ ISW_Grupo6_2020
++ Linea_Base
++ teorico
+    + apuntes
+	+ bibliografía
+	+ clases_teóricas
+	+ links_clases_teóricas
+	+ trabajo conceptuales
+		+ trabajo conceptual 1-poster cientifico
+		+ trabajo conceptual 2-video explicativo
+		+ trabajo conceptual 3-Pecha Kucha
++ tp_evaluables
+    * práctico_1
+	* práctico_11
+	* práctico_12
+	* práctico_13
+	* práctico_14
+	* práctico_3
+	* práctico_4
+	* práctico_6
+	* práctico_7
+	* práctico_8
++ trunk
+	* producto/implementación
+	* proyecto
 
 # Criterio para la línea base:
 
