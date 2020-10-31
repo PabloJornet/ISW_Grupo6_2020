@@ -1,7 +1,7 @@
-## Cátedra de INGENIERÍA EN SOFTWARE
+## CÁTEDRA de INGENIERÍA EN SOFTWARE
 ## Grupo Nº 6
 
-## DENOMINACIÓN: ISW_Grupo6_2020
+## DENOMINACIÓN DEL GRUPO: ISW_Grupo6_2020
 
 ## Integrantes:
 
